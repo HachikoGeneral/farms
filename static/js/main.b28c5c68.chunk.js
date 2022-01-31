@@ -3274,6 +3274,14 @@
                         quoteTokenSymbol: i.b.BNB,
                         quoteTokenAdresses: a.a.wbnb,
                     },
+                     {
+                        pid: 3,
+                        lpSymbol: "HACHIKO-bATRI LP",
+                        lpAddresses: { 97: "", 56: "0x574794b8D30b5A8E387Cb3c4cc324B3ECbc3Cf2D" },
+                        tokenSymbol: "HACHIKO",
+                        tokenAddresses: { 97: "", 56: "0x3ae20ee46822efad0099a40be21a36057914d963" },
+                        quoteTokenSymbol: i.b.BNB,
+                        quoteTokenAdresses: a.a.wbnb,
                 ];
             t.a = r;
         },
