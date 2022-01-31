@@ -3282,6 +3282,7 @@
                         tokenAddresses: { 97: "", 56: "0x3ae20ee46822efad0099a40be21a36057914d963" },
                         quoteTokenSymbol: i.b.BNB,
                         quoteTokenAdresses: a.a.wbnb,
+                    },
                 ];
             t.a = r;
         },
