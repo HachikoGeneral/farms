@@ -3283,6 +3283,15 @@
                         quoteTokenSymbol: i.b.BNB,
                         quoteTokenAdresses: a.a.wbnb,
                     },
+                    {
+                        pid: 4,
+                        lpSymbol: "HACHIKO-HACHX LP",
+                        lpAddresses: { 97: "", 56: "0xFe76397BdD08B917091BEfa471A71f19aCf468DA" },
+                        tokenSymbol: "HACHIKO",
+                        tokenAddresses: { 97: "", 56: "0x3ae20ee46822efad0099a40be21a36057914d963" },
+                        quoteTokenSymbol: i.b.BNB,
+                        quoteTokenAdresses: a.a.wbnb,
+                    },
                 ];
             t.a = r;
         },
