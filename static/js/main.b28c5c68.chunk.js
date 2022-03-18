@@ -3283,15 +3283,6 @@
                         quoteTokenSymbol: i.b.BNB,
                         quoteTokenAdresses: a.a.wbnb,
                     },
-                    {
-                        pid: 4,
-                        lpSymbol: "HACHIKO-DOGE LP",
-                        lpAddresses: { 97: "", 56: "0x13ea5Eacd336b38316253F6300618D721573959F" },
-                        tokenSymbol: "HACHIKO",
-                        tokenAddresses: { 97: "", 56: "0x3ae20ee46822efad0099a40be21a36057914d963" },
-                        quoteTokenSymbol: i.b.BNB,
-                        quoteTokenAdresses: a.a.wbnb,
-                    },
                 ];
             t.a = r;
         },
