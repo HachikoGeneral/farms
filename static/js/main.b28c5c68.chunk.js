@@ -3283,6 +3283,15 @@
                         quoteTokenSymbol: i.b.BNB,
                         quoteTokenAdresses: a.a.wbnb,
                     },
+                    {
+                        pid: 4,
+                        lpSymbol: "HACHIKO-ELONHYPE LP",
+                        lpAddresses: { 97: "", 56: "0x0DC05559dcaBB77534D3759d2bc94A879E34B125" },
+                        tokenSymbol: "HACHIKO",
+                        tokenAddresses: { 97: "", 56: "0x3ae20ee46822efad0099a40be21a36057914d963" },
+                        quoteTokenSymbol: i.b.BNB,
+                        quoteTokenAdresses: a.a.wbnb,
+                    },
                 ];
             t.a = r;
         },
