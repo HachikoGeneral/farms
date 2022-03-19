@@ -3284,8 +3284,17 @@
                         quoteTokenAdresses: a.a.wbnb,
                     },
                     {
+                        pid: 7,
+                        lpSymbol: "HACHIKO-DOGE LP",
+                        lpAddresses: { 97: "", 56: "0x13ea5Eacd336b38316253F6300618D721573959F" },
+                        tokenSymbol: "HACHIKO",
+                        tokenAddresses: { 97: "", 56: "0x3ae20ee46822efad0099a40be21a36057914d963" },
+                        quoteTokenSymbol: i.b.BNB,
+                        quoteTokenAdresses: a.a.wbnb,
+                    },
+                    {
                         pid: 8,
-                        lpSymbol: "HACHIKO-BTC LP",
+                        lpSymbol: "HACHIKO-BTCB LP",
                         lpAddresses: { 97: "", 56: "0x6FA8aB3C584CeE1D15ef610B3b9e36472BCf2BA6" },
                         tokenSymbol: "HACHIKO",
                         tokenAddresses: { 97: "", 56: "0x3ae20ee46822efad0099a40be21a36057914d963" },
