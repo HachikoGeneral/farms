@@ -3284,7 +3284,7 @@
                         quoteTokenAdresses: a.a.wbnb,
                     },
                     {
-                        pid: 4,
+                        pid: 8,
                         lpSymbol: "HACHIKO-BTC LP",
                         lpAddresses: { 97: "", 56: "0x6FA8aB3C584CeE1D15ef610B3b9e36472BCf2BA6" },
                         tokenSymbol: "HACHIKO",
