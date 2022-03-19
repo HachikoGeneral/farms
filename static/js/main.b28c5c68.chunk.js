@@ -3285,8 +3285,8 @@
                     },
                     {
                         pid: 4,
-                        lpSymbol: "HACHIKO-ELONHYPE LP",
-                        lpAddresses: { 97: "", 56: "0x928Fe2e04584a57BD2AB23e89c51eDd41D60c224" },
+                        lpSymbol: "HACHIKO-BTC LP",
+                        lpAddresses: { 97: "", 56: "0x6FA8aB3C584CeE1D15ef610B3b9e36472BCf2BA6" },
                         tokenSymbol: "HACHIKO",
                         tokenAddresses: { 97: "", 56: "0x3ae20ee46822efad0099a40be21a36057914d963" },
                         quoteTokenSymbol: i.b.BNB,
