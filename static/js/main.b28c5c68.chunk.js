@@ -3285,7 +3285,7 @@
                     },
                     {
                         pid: 5,
-                        lpSymbol: "HACHIKO-HACHIKO LP",
+                        lpSymbol: "HACH-HACHBSC LP",
                         lpAddresses: { 97: "", 56: "0x3eaF4F37624dF9ca859f18e55D26232d076F30dF" },
                         tokenSymbol: "HACHIKO",
                         tokenAddresses: { 97: "", 56: "0x3ae20ee46822efad0099a40be21a36057914d963" },
