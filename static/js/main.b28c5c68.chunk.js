@@ -3284,7 +3284,7 @@
                         quoteTokenAdresses: a.a.wbnb,
                     },
                     {
-                        pid: 7,
+                        pid: 6,
                         lpSymbol: "HACHIKO-DOGE LP",
                         lpAddresses: { 97: "", 56: "0x13ea5Eacd336b38316253F6300618D721573959F" },
                         tokenSymbol: "HACHIKO",
